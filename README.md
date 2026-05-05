@@ -3,7 +3,7 @@
 > a text-based, turn-based fantasy RPG where you play as a group of heroes on a quest to slay a great dragon.
 
 ## About the game
-DRAGONSLAYERS RPG is a a text-based, turn-based fantasy RPG built in Java for a collaborative academic project where you fight your way through a series of enemies to beat the dragon boss. Strategize using each of your heroes' unique skillsets and items you collect along your journey to slay the Decaying Dragon Envir! This game was designed using core Object-Oriented Programming principles, featuring a full class hierarchy, four playable character classes, a variety of enemy types, a combat system with unique abilities for each hero, a complete shared inventory system, and a mid-quest minigame.
+DRAGONSLAYERS RPG is a a text-based, turn-based fantasy RPG built in Java as a collaborative academic project where you fight your way through a series of enemies to beat the dragon boss. Strategize using each of your heroes' unique skillsets and items you collect along your journey to slay the Decaying Dragon Envir! This game was designed using core Object-Oriented Programming principles, featuring a full class hierarchy, four playable character classes, a variety of enemy types, a combat system with unique abilities for each hero, a complete shared inventory system, and a mid-quest minigame.
 
 ## How to Run
 
