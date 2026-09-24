@@ -22,7 +22,7 @@ javac *.java
 #3. Run the game
 java MainGame
 ```
-**Option 2 — IDE**
+**Option 2: IDE**
 1. Open the project folder in your IDE
 2. Make sure all `.java` files are in the same source directory
 3. Run `MainGame.java` as the entry point
